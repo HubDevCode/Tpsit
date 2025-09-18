@@ -1,3 +1,5 @@
+![Logo](https://github.com/HubDevCode/Tpsit/blob/main/srkivzf5hqa5qaml57rvlj4efd6jc3sachvcdoaizecfr3dnitcq_3_0.png)
+
 # README - Progetto TPSIT
 
 ## Descrizione
