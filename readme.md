@@ -21,7 +21,7 @@
 ### Istruzioni di installazione
 1. Clonare questo repository:
     ```bash
-    git clone https://github.com/tuo-repository/progetto-tpsit.git
+    git clone https://github.com/HubDevCode/Tpsit
     ```
 2. Installare le dipendenze:
     ```bash
@@ -43,4 +43,4 @@ Se desideri contribuire al progetto, segui questi passaggi:
 
 ## Licenza
 
-Questo progetto è concesso sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per dettagli.
+Questo progetto e coperto da cpyright 
