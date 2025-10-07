@@ -16,5 +16,11 @@ int main() {
     
     cout << "La somma è: " << somma << endl;
 
+    //sottrazione
+    int sottrazione = a-b;
+    
+    cout << "La sottrazione è: " << sottrazione << endl;
+
+    
     return 0;
 }
